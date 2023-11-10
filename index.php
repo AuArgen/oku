@@ -10,6 +10,8 @@
 </head>
 <body class=" bg-light">
   <div class="container">
+    <a href="./lesson1/">Lesson1</a> <br>
+    <a href="./lesson2/">Lesson2</a> <br>
     <div class="row">
       <!-- blog start -->
       <div class="col-lg-3 col-md-4 col-sm-6 col-12 p-2">
